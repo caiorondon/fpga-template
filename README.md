@@ -4,6 +4,7 @@ This repository provides a simple structure for VHDL-based FPGA designs targetin
 
 ## Folder Structure
 
+```
 . 
 ├── constraints/ 
 │ └── Nexys-A7-100T-Master.xdc # Pin and timing constraints 
@@ -17,6 +18,7 @@ This repository provides a simple structure for VHDL-based FPGA designs targetin
 │ └── sample_tb.vhd # Example VHDL testbench 
 ├── Makefile # Orchestrates build, sim, and program 
 └── README.md # This file
+```
 
 ## Usage
 
