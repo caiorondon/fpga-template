@@ -1,0 +1,10 @@
+
+*.jou
+*.log
+clockInfo.txt
+.Xil/
+xsim.dir/
+*.pb 
+*.bit
+*.str 
+*.wdb
