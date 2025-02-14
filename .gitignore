@@ -8,3 +8,5 @@ xsim.dir/
 *.bit
 *.str 
 *.wdb
+*.dcp
+
